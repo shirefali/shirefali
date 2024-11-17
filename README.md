@@ -3,16 +3,15 @@
 <img src="https://tenor.com/view/scaler-create-impact-code-sleep-time-gif-25011979.gif" width="300" />
 </div>
 <h1 align="center">Hey 👋, I'm Shiref Ali </h1>
-<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="0"></div> 
 <h3 align="center">Frontend Developer from Egypt  
 </h3> 
 
-
-
-<br> 🎯I'm a passionate Front-End Developer with a Bachelor's degree in Computer Science. 
+  🎯I'm a passionate Front-End Developer with a Bachelor's degree in Computer Science. 
 <br>
 🚀 Skilled in building interactive and responsive web applications using HTML, CSS, JavaScript, React.js, and modern frameworks like Next.js, Tailwind and Bootstrap.<br> 🌱I'm always eager to learn new technologies and enhance my skills.<br>💼 Looking for opportunities to grow and make a positive impact in the tech industry.
 <br>
+
+
 
 
 ### 🌐 My Socials:
