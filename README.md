@@ -3,7 +3,7 @@
 <img src="https://tenor.com/view/scaler-create-impact-code-sleep-time-gif-25011979.gif" width="300" />
 </div>
 <h1 align="center">Hey 👋, I'm Shiref Ali </h1>
-<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></div> 
+<div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="0"></div> 
 <h3 align="center">Frontend Developer from Egypt  
 </h3> 
 
